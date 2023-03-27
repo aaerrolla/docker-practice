@@ -1,3 +1,3 @@
-# document some HOWTO's when working with docker
+# Documenting HOWTO's when working with docker
 
 
