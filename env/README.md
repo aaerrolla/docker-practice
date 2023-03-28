@@ -1,3 +1,7 @@
+# Demo of how to use env variables in docker
+
+This example demonstrates how to work with environmental variables , mainly how to pass env var values to docker container.
+
 1. create a simpe shell script file named greetings.sh
 
     ```
@@ -27,7 +31,7 @@
     ```
     Very Important 
 
-    create .gitignore file  and add .env to it 
+    if your .env contains secrets like passwords or keys, then create .gitignore file  and add .env to it so it will not be comitted to git repo. 
     
 
 5. run docker image 
